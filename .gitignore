@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+best_segformer_robot_arm.pth
+
 # Distribution / packaging
 .Python
 build/
